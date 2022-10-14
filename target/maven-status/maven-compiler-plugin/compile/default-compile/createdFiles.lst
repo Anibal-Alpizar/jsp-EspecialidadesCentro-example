@@ -1,0 +1,13 @@
+Controller\beanFillGenders.class
+Controller\ValitationBean.class
+Controller\beanFillHours.class
+Controller\beanFillSpecialty.class
+Controller\beanMinutes.class
+Model\HoursModel.class
+Controller\beanFillServices.class
+Model\SpecialtyModel.class
+Model\ServicesModel.class
+com\mycompany\jsp\example\resources\JavaEE8Resource.class
+Controller\EspecialidadCSBean.class
+Model\GendersModel.class
+com\mycompany\jsp\example\JAXRSConfiguration.class
